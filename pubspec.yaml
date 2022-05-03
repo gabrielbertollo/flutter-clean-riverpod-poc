@@ -15,7 +15,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  riverpod: ^1.0.3
+  flutter_riverpod: ^1.0.3
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
